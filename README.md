@@ -1,16 +1,13 @@
 ![me](https://github.com/L1cardo/L1cardo/raw/master/assets/me.gif)
 
-## Hey , I'm V1dm12r
+## Hey , I'm V1dm12r/空花丽芙最可爱
 
-Hi there, I'm **V1dm12r**, a **student**.
+I am living in **China**. Now I am studying cybersecurity at **[HRBUST](https://en.hrbust.edu.cn/)**.
 
-I am living in **China**. Now I am studying CS at **[HRBUST](https://en.hrbust.edu.cn/)**.
-
-My dream is to become a hacker,and I'm trying，I am also interested in interrogation psychology.
+My dream is to become a hacker,and I'm trying，I am also interested in interrogation psychology and mikumiku dance.
 
 ### Talking about Personal Stuffs:
 
-- I’m currently a cybersecurity student at my 1th year; 
 - My interests are MMD and pwn related etc;
 - I am pursuing a bachelor's degree;
 - Ask me about anything, I will try my best to help;
